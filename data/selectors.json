@@ -3,5 +3,6 @@
   "name": "#name",
   "gender" : ".ant-radio-input",
   "age": "#age",
-  "story": "#story"
+  "story": "#story",
+  "image": "//label[@title='5. Upload an image (optional)']"
 }
