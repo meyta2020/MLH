@@ -42,4 +42,8 @@ describe('Inputs', function () {
         });
 
     });
+
+    describe('Placeholders are correct', function (){
+
+    });
 });
