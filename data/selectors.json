@@ -8,5 +8,6 @@
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option",
   "image": "//label[@title='5. Upload an image (optional)']",
-  "submitButton": ".ant-btn"
+  "submitButton": ".ant-btn",
+  "tryAgain": ".btn-primary"
 }
