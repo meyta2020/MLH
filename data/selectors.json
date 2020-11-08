@@ -10,4 +10,5 @@
   "image": "//label[@title='5. Upload an image (optional)']",
   "submitButton": ".ant-btn",
   "tryAgain": ".btn-primary"
+
 }

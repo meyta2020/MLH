@@ -45,5 +45,9 @@ describe('Inputs', function () {
 
     describe('Placeholders are correct', function (){
 
+        it('TC-031 Name', function () {
+            const placeholder = $(sel.name).getAttribute('placeholder');
+            expect(placeholder).toEqual(exp.placeholderName);
+        });
     });
 });

@@ -5,7 +5,7 @@ const inputValues4andClick = require('../../helpers/inputValues4andClick');
 
 describe('Checking the main functionality', function () {
 
-    describe('Happy path', function () {
+    xdescribe('Happy path', function () {
 
         it('TC-022 Create button is clickable after 1-4 are field in', function () {
             browser.url('');
@@ -43,4 +43,6 @@ describe('Checking the main functionality', function () {
             browser.pause(1000);
         });
     });
+
+
 });
